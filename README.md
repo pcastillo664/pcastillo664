@@ -13,27 +13,26 @@ Sóc **Pau Castillo**, estudiant de **1r de DAM** (Desenvolupament d'Aplicacions
 ## 🛠️ Coneixements i tecnologies
 
 ### 💬 Llenguatges de programació
-- ✅ **Java** (domini)
-- 🌱 Python (aprenent)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌍 Desenvolupament web
-- ✅ **HTML** (domini)
-- ✅ **CSS** (domini)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Bases de dades
-- 🌱 **MySQL** (aprenent)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 🌱 *aprenent*
 
 ### 🖥️ Sistemes operatius
-- ✅ Windows
-- ✅ Linux
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧰 Eines
-- ✅ VSCodium
-- ✅ Geany
-- 🌱 Git i GitHub (aprenent)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F2F41?style=for-the-badge&logo=vscodium&logoColor=white)
+![Geany](https://img.shields.io/badge/Geany-00A98F?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 🌱 *aprenent*
 
 ---
 
-**Llegenda:** ✅ ho domino · 🌱 ho estic aprenent
+**Llegenda:** les insígnies sense etiqueta són tecnologies que domino · 🌱 ho estic aprenent
 
 📫 Em pots trobar aquí a GitHub. Gràcies per passar-te pel meu perfil! 🚀
